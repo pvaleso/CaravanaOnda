@@ -2,7 +2,7 @@ require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
 require "omniauth-facebook"
-config.omniauth :facebook, "326046284152485", "0b3a109b0caad05b134bd5d2c6680a6f"
+config.omniauth :facebook, "298883873544039", "f72255691daee06197beb2e82a4d4913"
 
 if defined?(Bundler)
   # If you precompile assets before deploying to production, use this line
